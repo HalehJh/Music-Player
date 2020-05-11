@@ -1,2 +1,3 @@
 ## Music-Player
-![untitled](https://user-images.githubusercontent.com/50993333/81542577-209ab080-938a-11ea-872a-07fd94e44003.gif)
+![resizedGifMusic](https://user-images.githubusercontent.com/50993333/81544207-707a7700-938c-11ea-8f8a-d254cfd65d29.gif)
+
